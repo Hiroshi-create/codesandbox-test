@@ -8,5 +8,6 @@ document.getElementById("app").innerHTML = `
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
 
   <p>テキストです</p>
+  <p>テキストです</p>
 </div>
 `;
